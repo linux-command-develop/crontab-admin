@@ -22,7 +22,7 @@
 - 멀티 crontab 관리
 
 ### [CI/CD]
-- github workflow 작성
+- GitHub Actions 파일 작성
 - Kubernetes 구축
   - ArgoCD 설치
 
