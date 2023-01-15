@@ -14,14 +14,15 @@
 - 추가 예정
 
 # 🌟 주요 기능
-[Application]
+### [Application]
 - crontab 서비스 제어
 - crontab 설정 조회, 수정, 추가, 삭제
 - crontab 헬스 체크 및 셀프 힐링
 - 실행 결과 출력 및 로그 파일로 관리
 - 멀티 crontab 관리
 
-[CI/CD]
+### [CI/CD]
+- github workflow 작성
 - Kubernetes 구축
   - ArgoCD 설치
 
